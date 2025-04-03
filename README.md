@@ -23,26 +23,7 @@ I'm a 22-year-old developer passionate about building intelligent systems. My ex
 **Tools & Frameworks**  
 ![Tech Stack](https://skillicons.dev/icons?i=react,nodejs,fastapi,tensorflow,pytorch,aws,docker,postgres,git,github,linux)
 
----
 
-### 🚀 Featured Projects
-
-[![ChatCortex](https://github-readme-stats.vercel.app/api/pin/?username=alexcarter&repo=chatcortex&theme=dark&show_owner=true)](https://github.com/alexcarter/chatcortex)
-[![AgentForge](https://github-readme-stats.vercel.app/api/pin/?username=alexcarter&repo=agentforge&theme=dark&show_owner=true)](https://github.com/alexcarter/agentforge)
-
----
-
-### 📊 Development Activity
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexcarter&show_icons=true&theme=dark&count_private=true&include_all_commits=true">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=alexcarter&theme=dark">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexcarter&layout=compact&theme=dark&hide=html,css">
-</div>
-
-![Contribution Graph](https://raw.githubusercontent.com/alexcarter/alexcarter/output/github-contribution-grid-snake.svg)
-
----
 
 ### 🌐 Connect & Collaborate
 
