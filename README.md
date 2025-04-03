@@ -8,7 +8,7 @@ I'm a 22-year-old developer passionate about building intelligent systems. My ex
 - 🌱 **Learning** Multi-agent systems and vector database optimization
 - 💡 **Expertise** in RAG architectures and conversational AI design
 - 🚀 **Currently Exploring** AI agent swarms for enterprise automation
-- 📫 **Reach me**: alex@carterdev.ai | [Book a Chat](https://calendly.com/kalijunaid)
+- 📫 **Reach me**: kalijunaid@gmail.com | [Book a Chat](https://calendly.com/kalijunaid)
 - ⚡ **Fun fact**: Built my first chatbot at 15 using AIML
 
 ---
